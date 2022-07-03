@@ -2,3 +2,9 @@ p{
     color: white;
     background-color: rgb(69, 63, 63);
 }
+h1{
+    color: red;
+}
+h1 a{
+    color: green;
+}
