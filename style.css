@@ -8,3 +8,10 @@ h1{
 h1 a{
     color: green;
 }
+div img{
+    border: 5px solid green;
+    width: 600px;
+    height:500px ;
+  
+
+}
